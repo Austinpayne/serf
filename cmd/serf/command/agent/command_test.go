@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Austinpayne/serf/client"
+	"github.com/Austinpayne/serf/testutil"
 	"github.com/mitchellh/cli"
 )
 

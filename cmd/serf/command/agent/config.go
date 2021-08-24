@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/serf/serf"
+	"github.com/Austinpayne/serf/serf"
 	"github.com/mitchellh/mapstructure"
 )
 
@@ -211,7 +211,7 @@ type Config struct {
 	RejoinAfterLeave bool `mapstructure:"rejoin_after_leave"`
 
 	// EnableCompression specifies whether message compression is enabled
-	// by `github.com/hashicorp/memberlist` when broadcasting events.
+	// by `github.com/Austinpayne/memberlist` when broadcasting events.
 	EnableCompression bool `mapstructure:"enable_compression"`
 
 	// StatsiteAddr is the address of a statsite instance. If provided,

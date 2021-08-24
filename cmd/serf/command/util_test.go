@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Austinpayne/serf/cmd/serf/command/agent"
+	"github.com/Austinpayne/serf/serf"
+	"github.com/Austinpayne/serf/testutil"
 )
 
 func init() {

@@ -11,8 +11,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/serf"
+	"github.com/Austinpayne/memberlist"
+	"github.com/Austinpayne/serf/serf"
 )
 
 // Agent starts and manages a Serf instance, adding some niceties

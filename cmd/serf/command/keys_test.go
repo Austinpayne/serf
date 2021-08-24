@@ -6,11 +6,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Austinpayne/memberlist"
+	"github.com/Austinpayne/serf/client"
+	"github.com/Austinpayne/serf/cmd/serf/command/agent"
+	"github.com/Austinpayne/serf/serf"
+	"github.com/Austinpayne/serf/testutil"
 	"github.com/mitchellh/cli"
 )
 

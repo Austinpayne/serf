@@ -4,9 +4,9 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/hashicorp/serf/cmd/serf/command"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/hashicorp/serf/version"
+	"github.com/Austinpayne/serf/cmd/serf/command"
+	"github.com/Austinpayne/serf/cmd/serf/command/agent"
+	"github.com/Austinpayne/serf/version"
 	"github.com/mitchellh/cli"
 )
 

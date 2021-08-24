@@ -18,10 +18,10 @@ import (
 	"time"
 
 	"github.com/hashicorp/go-msgpack/codec"
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/coordinate"
-	"github.com/hashicorp/serf/testutil"
-	"github.com/hashicorp/serf/testutil/retry"
+	"github.com/Austinpayne/memberlist"
+	"github.com/Austinpayne/serf/coordinate"
+	"github.com/Austinpayne/serf/testutil"
+	"github.com/Austinpayne/serf/testutil/retry"
 )
 
 func testConfig(t *testing.T, ip net.IP) *Config {

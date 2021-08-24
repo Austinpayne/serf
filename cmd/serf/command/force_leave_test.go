@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Austinpayne/serf/serf"
+	"github.com/Austinpayne/serf/testutil"
 	"github.com/mitchellh/cli"
 )
 

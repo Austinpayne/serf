@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/memberlist"
+	"github.com/Austinpayne/memberlist"
 )
 
 func TestBroadcast_Impl(t *testing.T) {

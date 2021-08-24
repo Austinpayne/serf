@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/testutil"
-	"github.com/hashicorp/serf/testutil/retry"
+	"github.com/Austinpayne/memberlist"
+	"github.com/Austinpayne/serf/testutil"
+	"github.com/Austinpayne/serf/testutil/retry"
 )
 
 func TestSerf_joinLeave_ltime(t *testing.T) {

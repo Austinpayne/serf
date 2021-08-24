@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
+	"github.com/Austinpayne/serf/cmd/serf/command/agent"
 	"github.com/mitchellh/cli"
 )
 

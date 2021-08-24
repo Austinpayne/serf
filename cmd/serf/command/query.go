@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
+	"github.com/Austinpayne/serf/client"
+	"github.com/Austinpayne/serf/cmd/serf/command/agent"
 	"github.com/mitchellh/cli"
 )
 
